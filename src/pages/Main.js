@@ -88,7 +88,7 @@ export default function Main({ match }) {
         ))}
       </ul>
       ) : (
-        <div className="empty">Acabou :(</div>
+        <div className="empty">Você já classificou todos os novos Devs.(</div>
       )}
       { matchDev && (
         <div className="match-container">
