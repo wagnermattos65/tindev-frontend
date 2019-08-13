@@ -1,20 +1,19 @@
 # TinDev FrontEnd
 
 ## Tecnologias
-  Backend  : NodeJS
+  |---------|--------------|
+  | Backend | NodeJS       |
+  |---------|--------------|
+  | Frontend| ReactJS      |
+  |---------|--------------|
+  | Mobile  | React-Native |
+  |---------|--------------|
+  | Database| MongoDB      |
+  |---------|--------------|
 
-  Frontend : ReactJS
+### Deployed at Heroku
 
-  Mobile:  : React-Native
+  [Backend](https://wm-tindev-backend.herokuapp.com)
 
-  Database : MongoDB
-
-  Deploy   : Heroku
-
-
-MVC
-
-  Backend  : https://wm-tindev-backend.herokuapp.com
-
-  Frontend : https://wm-tindev-frontend.herokuapp.com
+  [Frontend](https://wm-tindev-frontend.herokuapp.com)
 
