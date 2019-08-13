@@ -2,10 +2,10 @@
 
 ## Tecnologias
 
-  Backend  : NodeJS
-  Frontend : ReactJS
-  Mobile   : React-Native
-  Database : MongoDB
+  - Backend  : NodeJS
+  - Frontend : ReactJS
+  - Mobile   : React-Native
+  - Database : MongoDB
 
 
 ### Deployed at Heroku
