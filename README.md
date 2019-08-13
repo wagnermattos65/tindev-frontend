@@ -10,7 +10,6 @@
 
 ### Deployed at Heroku
 
-  [Backend](https://wm-tindev-backend.herokuapp.com)
-
-  [Frontend](https://wm-tindev-frontend.herokuapp.com)
+  - [Acesso ao Backend](https://wm-tindev-backend.herokuapp.com)
+  - [Acesso ao Frontend](https://wm-tindev-frontend.herokuapp.com)
 
